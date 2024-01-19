@@ -4,6 +4,8 @@ It's a simple React app made for note taking. It features adding, editing, delet
 
 ## Project demo:
 
+![Alt Text](./projectDemo.gif)
+
 ### Optimizations:
 
 If i had the time, I would implement authentication so that users won't need their own database, also some note folders and additional styling. As I'm just getting started with react, more complex concepts like that will most likely be practiced in more complex and more ambitious React projects so that they could have of a **_wow_** effect.
